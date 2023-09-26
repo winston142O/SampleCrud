@@ -8,6 +8,7 @@
 </p>
 
 Esta es una aplicación tipo CRUD (Create, read, update, delete) hecha con Laravel y Vue.js
+
 Como Tarea inical de SegurosChat.
 
 Hecha por Winston Pichardo y Leonardo Perozo.
