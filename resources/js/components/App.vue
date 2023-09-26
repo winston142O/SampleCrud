@@ -110,17 +110,7 @@
     svg {
       width:100%;
     }
-    .arrow {
-      stroke-width: .3px;
-      stroke:yellow;
-    }
-    .topball {
-      animation: ball 1.5s ease-in-out;
-      animation-iteration-count:infinite;
-      animation-direction: alternate;
-      animation-delay: 0.3s;
-      cursor:pointer;
-    }
+
 
     .wave {
       animation: wave 3s linear;
